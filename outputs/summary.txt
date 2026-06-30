@@ -1,0 +1,6 @@
+===== SMPL LBS Semi-Custom Lab Summary =====
+num_vertices: 6890
+num_faces: 13776
+num_joints(from lbs_weights): 24
+manual_vs_official_mean_abs_error: 0.0000000000e+00
+manual_vs_official_max_abs_error: 0.0000000000e+00
