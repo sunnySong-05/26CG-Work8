@@ -125,6 +125,7 @@ $$v_i' = \left( \sum_{j=1}^{J} w_{i,j} A_j \right) v_{i,p}$$
 <div align="center">
 
 ![SMPL LBS 动态骨骼弯曲动画](outputs/smpl_lbs_movement.gif)
+
 *图 7: 第 18 号手肘关节从 0° 至 90° 弯曲及 LBS 权重空间协同带动动画*
 
 </div>
